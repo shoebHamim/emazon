@@ -24,7 +24,7 @@ const Cart = (props) => {
             <p>Items ordered: {cart.length}</p>
             <p>Product Price: {total}</p>
             <p>Shipping Cost: {shipping}</p>
-            <p>Total Price: {total_price}</p>
+            <p>Total Price: ${total_price}</p>
 
         </div>
     );
