@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emazon/static/css/main.335298bd.css",
+    "main.js": "/emazon/static/js/main.c9cb0860.js",
+    "static/js/787.9792a745.chunk.js": "/emazon/static/js/787.9792a745.chunk.js",
+    "static/media/logo.png": "/emazon/static/media/logo.0dd9a5104bbc1da3e6ae.png",
+    "index.html": "/emazon/index.html",
+    "main.335298bd.css.map": "/emazon/static/css/main.335298bd.css.map",
+    "main.c9cb0860.js.map": "/emazon/static/js/main.c9cb0860.js.map",
+    "787.9792a745.chunk.js.map": "/emazon/static/js/787.9792a745.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.335298bd.css",
+    "static/js/main.c9cb0860.js"
+  ]
+}
