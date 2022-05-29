@@ -7,6 +7,7 @@ import Shop from './components/Shop/Shop';
 function App() {
   return (
     <div>
+      <h1>Beta Release</h1>
       <Header></Header>
       <Shop/>
       
