@@ -2,3 +2,13 @@
     width: 15vw;
     margin-left: 5px;
 }
+.addcart-button{
+    cursor: pointer;
+    background-color: gold;
+    border: none;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    color: black;
+
+}
